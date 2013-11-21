@@ -20,6 +20,10 @@ Once this operation completes, the final step is to add the service provider. Op
 
   `'Ivanlemeshev\Laravel4CyrillicSlug\SlugServiceProvider',`
 
+And add a new item to the aliases array.
+
+  `'Slug' => 'Ivanlemeshev\Laravel4CyrillicSlug\Facades\Slug'`,
+
 Usage
 -------
 Call of the method: `Slug::make($text)`
