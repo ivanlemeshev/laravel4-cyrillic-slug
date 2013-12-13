@@ -1,7 +1,7 @@
 {
     "name": "ivanlemeshev/laravel4-cyrillic-slug",
     "description": "Laravael 4.1 slug maker for Cyrillic strings",
-    "keywords" : ["laravel", "laravel4", "slug", "cyrillic"] ,
+    "keywords" : ["laravel", "laravel4.1", "slug", "cyrillic"] ,
     "homepage" : "https://github.com/IvanLemeshev/laravel4-cyrillic-slug" ,
     "license": "MIT",
     "authors": [
