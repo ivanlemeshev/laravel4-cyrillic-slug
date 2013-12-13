@@ -1,4 +1,4 @@
-Laravel 4 Cyrillic Slug
+Laravel 4.1 Cyrillic Slug
 ========
 
 Installation
@@ -8,7 +8,7 @@ You should install this package through Composer.
 Edit your project's `composer.json` file to require `ivanlemeshev/laravel4-cyrillic-slug`.
 
     "require": {
-        "laravel/framework": "4.0.*",
+        "laravel/framework": "4.1.*",
         "ivanlemeshev/laravel4-cyrillic-slug": "dev-master"
     },
     "minimum-stability" : "dev"
@@ -22,7 +22,7 @@ Once this operation completes, the final step is to add the service provider. Op
 
 And add a new item to the aliases array.
 
-  `'Slug' => 'Ivanlemeshev\Laravel4CyrillicSlug\Facades\Slug'`,
+  `'Slug' => 'Ivanlemeshev\Laravel4CyrillicSlug\Facades\Slug',`
 
 Usage
 -------
