@@ -9,7 +9,7 @@ class Slug {
 	 * @param string $separator
 	 * @return string
 	 */
-	function make($title, $separator = '-')
+	public function make($title, $separator = '-')
 	{
 		$matrix = array(
 			'й' => 'i',  'ц' => 'c',  'у' => 'u',    'к' => 'k',  'е' => 'e',  'н' => 'n',
