@@ -1,4 +1,4 @@
-Laravel 4.1 Cyrillic Slug
+Laravel 4 Cyrillic Slug (Supports 4.0, 4.1, 4.2)
 ========
 
 Installation
