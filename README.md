@@ -3,7 +3,7 @@ Laravel 4 Cyrillic Slug
 
 Supported Alphabets 
 -------
-* Russsian
+* Russian
 * Kazakh
 
 Installation
