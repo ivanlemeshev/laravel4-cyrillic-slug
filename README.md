@@ -1,6 +1,11 @@
 Laravel 4 Cyrillic Slug
 ========
 
+Supported Alphabets 
+-------
+* Russsian
+* Kazakh
+
 Installation
 -------
 You should install this package through Composer.
