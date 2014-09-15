@@ -5,6 +5,7 @@ Supported Alphabets
 -------
 * Russian
 * Kazakh
+* Ukrainian
 
 Installation
 -------
