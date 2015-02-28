@@ -2,20 +2,20 @@
 
 [![Latest Stable Version](https://poser.pugx.org/ivanlemeshev/laravel4-cyrillic-slug/v/stable.svg)](https://packagist.org/packages/ivanlemeshev/laravel4-cyrillic-slug) [![Total Downloads](https://poser.pugx.org/ivanlemeshev/laravel4-cyrillic-slug/downloads.svg)](https://packagist.org/packages/ivanlemeshev/laravel4-cyrillic-slug) [![Latest Unstable Version](https://poser.pugx.org/ivanlemeshev/laravel4-cyrillic-slug/v/unstable.svg)](https://packagist.org/packages/ivanlemeshev/laravel4-cyrillic-slug) [![License](https://poser.pugx.org/ivanlemeshev/laravel4-cyrillic-slug/license.svg)](https://packagist.org/packages/ivanlemeshev/laravel4-cyrillic-slug)
 
-Supported Alphabets
--------
+## Supported Alphabets
+
 * Russian
 * Kazakh
 * Ukrainian
 
-Installation
--------
+## Installation
+
 You should install this package through Composer.
 
 Edit your project's `composer.json` file to require `ivanlemeshev/laravel-cyrillic-slug`.
 
     "require": {
-        "ivanlemeshev/laravel-cyrillic-slug": "dev-master"
+        "ivanlemeshev/laravel-cyrillic-slug": "1.0.0"
     },
 
 Next, update Composer from the Terminal:
@@ -30,8 +30,8 @@ And add a new item to the aliases array.
 
   `'Slug' => 'Ivanlemeshev\LaravelCyrillicSlug\Facades\Slug',`
 
-Usage
--------
+## Usage
+
 Call of the method: `Slug::make($text)`
 
 Call of the method with specific separator: `Slug::make($text, '_')`.
