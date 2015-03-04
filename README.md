@@ -15,7 +15,7 @@ You should install this package through Composer.
 Edit your project's `composer.json` file to require `ivanlemeshev/laravel-cyrillic-slug`.
 
     "require": {
-        "ivanlemeshev/laravel-cyrillic-slug": "1.0.0"
+        "ivanlemeshev/laravel4-cyrillic-slug": "1.0.0"
     },
 
 Next, update Composer from the Terminal:
