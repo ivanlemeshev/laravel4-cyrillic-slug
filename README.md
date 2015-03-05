@@ -28,7 +28,7 @@ Open `app/config/app.php`, and add a new item to the providers array.
 
 And add a new item to the aliases array.
 
-  `'Slug' => 'Ivanlemeshev\LaravelCyrillicSlug\Facades\Slug',`
+  `'Slug' => 'Ivanlemeshev\Laravel4CyrillicSlug\Facades\Slug',`
 
 ## Usage
 
